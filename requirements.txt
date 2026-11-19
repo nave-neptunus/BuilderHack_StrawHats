@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+requests
+httpx
+python-dotenv
+diskcache
+groq
+google-genai
+pytest
+ruff
