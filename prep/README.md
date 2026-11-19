@@ -1,6 +1,6 @@
 # StrawHats: Builders Buildathon (Nov 20 to 22, 2026)
 
-Prep notes and track guesses are in `docs/research.md`.
+Prep notes and track guesses are in `docs/research.md`. Run every command below from this `prep/` folder.
 
 ```bash
 pip install -r requirements.txt
